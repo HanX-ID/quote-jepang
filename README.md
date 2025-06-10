@@ -1,3 +1,6 @@
+#### JSON URL VIEW 
+https://raw.githubusercontent.com/HanX-ID/quote-jepang/refs/heads/main/data.json
+
 #### MY CASE BOT
 ```javascript
 case "quote": {
